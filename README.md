@@ -10,14 +10,15 @@ Passionate about leveraging technology to solve real-world challenges, I am Fais
 - Open Source Development
 - Cloud Computing Technologies
 - Java Programming
+- DevOps
 
 🚀 **Projects:**
-- Actively contributing to open-source projects.
 - Developing innovative solutions in Java.
+- Implementing innovative cloud solutions to address real-world challenges.
 
 🔧 **Skills:**
 - Java
-- Cloud Computing (AWS, Azure)
+- Cloud Computing (GCP, AWS)
 - Problem Solving
 - Data Structures and Algorithms
 
@@ -27,6 +28,7 @@ Passionate about leveraging technology to solve real-world challenges, I am Fais
 🌱 **Current Goals:**
 - Enhancing proficiency in Java programming.
 - Exploring advanced concepts in Cloud Computing.
+- Exploring DevOps
 
 📫 **Contact:**
 - Email: faisalljavid@gmail.com
